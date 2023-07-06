@@ -1,0 +1,16 @@
+body{
+    background-color: #c2e4df; 
+}
+.logo img{
+    width: 80px;
+    height: 90px;
+}
+.col{
+    padding: 5% 3%;
+}
+.container-fluid {
+    background-color: #AEE5DD;
+}
+.btn {
+    background-color: #3ceed3;
+}
